@@ -1,0 +1,8 @@
+name: PotionMayham
+version: '1.0'
+main: io.github.bluenova.potionMayham.PotionMayham
+api-version: '1.21'
+authors: [ BlueNova ]
+commands:
+  pm:
+    description: "main command for Potion Mayham"
